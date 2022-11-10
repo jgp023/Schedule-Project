@@ -10,7 +10,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
-    "electron": "7.1.11"
+    "electron": "18.3.7"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "electron": "^7.1.11"
+    "electron": "^18.3.7"
   }
 }
